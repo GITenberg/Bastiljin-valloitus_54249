@@ -1,0 +1,37 @@
+_repo: Bastiljin-valloitus_54249
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - père, Alexandre Dumas
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: 'Sequel is: Ange Pitou, #54264.'
+gutenberg_issued: '2017-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54249'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Bastille -- Fiction'
+- GITenberg
+title: Bastiljin valloitus
+url: http://www.gutenberg.org/ebooks/54249
